@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-santana-costa-alves&label=Profile%20views&color=0e75b6&style=flat" alt="guilherme-santana-costa-alves" /> </p>
 
-- 🔭 I’m currently working on **Complete User Login and Registration Backend + Email Verification**
+- 🧑‍💼 I’m currently working at **Kyndryl Holdings, Inc**
+
+- 🔭 My next project is a **Complete User Login and Registration Backend with Email Verification**
 
 - 🌱 I’m currently learning **Java Spring Framework**
 
-- 👨‍💻 All of my infos are available at [https://www.linkedin.com/in/guilherme-santana-costa-alves/](https://www.linkedin.com/in/guilherme-santana-costa-alves/)
+- 👨‍💻 All of my infos are available at [my Linkedin](https://www.linkedin.com/in/guilherme-santana-costa-alves/)
 
 - 💬 Ask me about **Java, SQL**
 
