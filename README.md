@@ -1,17 +1,17 @@
 <h1 align="center">Hello 👋, I'm Guilherme Alves</h1>
-<h3 align="center">A 22 years old passionate Java developer from Brazil</h3>
+<h3 align="center">A 22 years old passionate Cloud enthusiastic from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-santana-costa-alves&label=Profile%20views&color=0e75b6&style=flat" alt="guilherme-santana-costa-alves" /> </p>
 
 - 🧑‍💼 I’m currently working at **Kyndryl Holdings, Inc**
 
-- 🔭 My next project is a **Complete User Login and Registration Backend with Email Verification**
+- 🔭 My next project is a **Networking Immersion Day**
 
-- 🌱 I’m currently learning **Java Spring Framework**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my infos are available at [my Linkedin](https://www.linkedin.com/in/guilherme-santana-costa-alves/)
 
-- 💬 Ask me about **Java, SQL**
+- 💬 Ask me about **Azure, Google Cloud Platform (GCP) or AWS**
 
 - 📫 How to reach me **guilherme.san007@gmail.com**
 
